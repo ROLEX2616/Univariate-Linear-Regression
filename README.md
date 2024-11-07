@@ -1,4 +1,3 @@
-# DATE:
 # Implementation of Univariate Linear Regression
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
@@ -17,8 +16,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Program
 ```
 #Program to implement univariate Linear Regression to fit a straight line using least squares.
-#Developed by:KAVINRAJ.S
-#register number:212223100019
+#Developed by
+#register number: 22002
 
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -46,7 +45,11 @@ plt.show()
 
 ```
 ## Output
-![Output](./images/WhatsApp%20Image%202023-01-24%20at%209.36.34%20PM(1).jpeg)
-![Output](./images/WhatsApp%20Image%202023-01-24%20at%209.36.35%20PM.jpeg)
+
+![uni 2](https://user-images.githubusercontent.com/119393424/216226396-d73caaf5-30d7-4ced-837c-03c056714da8.png)
+
+![u ni 3](https://user-images.githubusercontent.com/119393424/216226416-e476b56d-92b5-4ad1-8fcf-751adc00de30.png)
+
+
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
